@@ -71,6 +71,8 @@ export default function RootLayout({ children }) {
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://www.google-analytics.com" />
         <link rel="preconnect" href="https://sb.scorecardresearch.com" />
+        
+        <meta name="robots" content="nofollow, noindex" />
       </head>
       <body
         className={`${InterFont.variable} antialiased`}
