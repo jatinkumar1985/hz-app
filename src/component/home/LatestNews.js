@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import React from 'react'
 import GlobalLink from '../global/GlobalLink';
 import LazyMedia from '../global/LazyMedia';
